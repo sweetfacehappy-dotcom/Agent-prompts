@@ -15,3 +15,4 @@ Structured repository for AI agent prompts and their surrounding frameworks.
 | Agent / framework | Framework | Prompt(s) |
 |---|---|---|
 | Code MR Functional Reviewer | [`frameworks/code-mr-functional-reviewer.md`](frameworks/code-mr-functional-reviewer.md) | [`prompts/code-mr-functional-reviewer/system-prompt.md`](prompts/code-mr-functional-reviewer/system-prompt.md) |
+| Files & Folders Personal-Agent Harness | [`frameworks/files-and-folders-personal-agent.md`](frameworks/files-and-folders-personal-agent.md) | [`prompts/files-and-folders-personal-agent/system-prompt.md`](prompts/files-and-folders-personal-agent/system-prompt.md) |
